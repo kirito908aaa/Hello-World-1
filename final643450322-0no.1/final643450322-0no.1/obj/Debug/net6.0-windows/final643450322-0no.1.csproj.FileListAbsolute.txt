@@ -1,0 +1,17 @@
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\final643450322-0no.1.exe
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\final643450322-0no.1.deps.json
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\final643450322-0no.1.runtimeconfig.json
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\final643450322-0no.1.dll
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\ref\final643450322-0no.1.dll
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\bin\Debug\net6.0-windows\final643450322-0no.1.pdb
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322_0no._1.Form1.resources
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.csproj.GenerateResource.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.AssemblyInfoInputs.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.AssemblyInfo.cs
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.dll
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\ref\final643450322-0no.1.dll
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.pdb
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.genruntimeconfig.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\final643450322-0no.1\final643450322-0no.1\obj\Debug\net6.0-windows\final643450322-0no.1.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.AssemblyReference.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.Form1.resources
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.GenerateResource.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfoInputs.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfo.cs
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\GitHub\Hello-World\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAx.Form1.resources
